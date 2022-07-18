@@ -861,7 +861,7 @@ main {
   padding: 0;
   border: none;
   border-radius: 5px;
-  width: 850px;
+  width: 100%;
 }
 .btn-4:hover{
   background-color: #17b31f;
