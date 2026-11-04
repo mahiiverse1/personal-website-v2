@@ -6,6 +6,6 @@ This website is made using HTML, CSS and vanilla JavaScript. Feel free to use th
 
 You can check the deployed website on the sidebar...
 
-Or.. [here as well :)]([https://mahiiverse1.github.io/personal-website-v2/])
+Or.. [here as well :)](https://mahiiverse1.github.io/personal-website-v2/)
 
 Feel free to raise an issue if you would like to address an issue with the website functionality or on how you can use the template!
